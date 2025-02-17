@@ -8,11 +8,11 @@
 ## How to use:
 1. Open file 'webpagewithjs.html' in a browser                                 
 2. Click the buttons to run the light on and off 
-                                   
-#### Customizations:
-- Background color changed to pink.
-- Personalized text added with my name.   
 
-Thanks for reading!!  
+## Customizations:
+- Background color changed to pink.  
+- Personalized text added with my name.  
+
+Thank you for reading!
 
 
