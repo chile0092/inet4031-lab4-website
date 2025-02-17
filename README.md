@@ -1,16 +1,18 @@
 # INET4031 - Module 6 - Working with Remote Systems
 
-## Instructions, files, code for Lab 6.
+## Features                            
+- A webpage with JavaScript that lets you turn a lightbulb on and off
+- A custom background color                                
+- Personalized text updates
+                                                                               
+## How to use:
+1. Open file 'webpagewithjs.html' in a browser                                 
+2. Click the buttons to run the light on and off 
+                                   
+#### Customizations:
+- Background color changed to pink.
+- Personalized text added with my name.   
 
-What if you aren't nearby the computer you need to work on?
-
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
-
+Thanks for reading!!  
 
 
